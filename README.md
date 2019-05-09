@@ -1,6 +1,6 @@
 # Secure Machine Learning
 
-Machine Learning as a service
+Related papers in the top-tier security conferences.  We mainly focus on the security problems (both privacy and integrity) when machine learning models are trained or deployed in untrustworthy cloud platforms. The problems are quite pressing as the rapid development of Machine Learning-as-a-Service techniques.
 
 ## Secure Training
 ### Attacks
@@ -26,10 +26,12 @@ Machine Learning as a service
 ### Detection and Defence
 **S&P**
 ```latex
-    2018 Locally Differentially Private Frequent Itemset Mining 
+    2018 Locally Differentially Private Frequent Itemset Mining
+
     2017 Is Interaction Necessary for Distributed Private Learning?
     2017 Pyramid: Enhancing Selectivity in Big Data Protection with Count Featurization
     2017 SecureML: A System for Scalable Privacy-Preserving Machine Learning
+
     2016 Deep Learning with Differential Privacy
 
 ```
@@ -46,6 +48,7 @@ Machine Learning as a service
 **S&P**
 ```latex
     2018 Stealing Hyperparameters in Machine Learning
+
     2017 Membership Inference Attacks Against Machine Learning Models
 
 ```
