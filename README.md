@@ -94,7 +94,7 @@ Related papers in the top-tier security conferences.  We mainly focus on the sec
 
 **USENIX**
 ```latex
-    2018 When Does Machine Learning FAIL? Generalized Transferability for Evasion and Poisoning Attacks
+    2018 When Does Machine Learning FAIL? Generalized Transferability for Evasion and Poisoning Attacks [github](https://github.com/sdsatumd/fail)
     2018 Formal Security Analysis of Neural Networks using Symbolic Intervals
     2018 Turning Your Weakness Into a Strength: Watermarking Deep Neural Networks by Backdooring
     2018 GAZELLE: A Low Latency Framework for Secure Neural Network Inference
