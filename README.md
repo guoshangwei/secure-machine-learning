@@ -61,6 +61,7 @@ Related papers in the top-tier security conferences.  We mainly focus on the sec
     2017 Machine Learning Models that Remember Too Much
     2017 DolphinAttack: Inaudible Voice Commands
     2017 Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning
+    2017 Towards Evaluating the Robustness of Neural Networks
 
     2016 SFADiff: Automated Evasion Attacks and Fingerprinting Using Black-box Differential Automata Learning
 
@@ -80,8 +81,6 @@ Related papers in the top-tier security conferences.  We mainly focus on the sec
 **S&P**
 ```latex
     2018 AI2: Safety and Robustness Certification of Neural Networks with Abstract Interpretation
-
-    2017 Towards Evaluating the Robustness of Neural Networks
 
     2016 Distillation as a Defense to Adversarial Perturbations Against Deep Neural Networks
 
