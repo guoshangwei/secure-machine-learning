@@ -55,6 +55,7 @@ Related papers in the top-tier security conferences.  We mainly focus on the sec
 **CCS**
 ```latex
     2018 Model-Reuse Attacks on Deep Learning Systems
+    2018 Property Inference Attacks on Fully Connected Neural Networks using Permutation Invariant Representations
 
     2017 Evading Classifiers by Morphing in the Dark
     2017 Machine Learning Models that Remember Too Much
@@ -88,7 +89,6 @@ Related papers in the top-tier security conferences.  We mainly focus on the sec
 **CCS**
 ```latex
     2018 Yet Another Text Captcha Solver: A Generative Adversarial Network Based Approach
-    2018 Property Inference Attacks on Fully Connected Neural Networks using Permutation Invariant Representations
 
     2017 MagNet: A Two-Pronged Defense against Adversarial Examples
     2017 Oblivious Neural Network Predictions via MiniONN Transformations
